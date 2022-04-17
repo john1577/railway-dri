@@ -52,5 +52,3 @@ Removed all LibDRiv* references  to try avoid ban acc in heroku. Works? i Dont N
 
 Credits Elias - eliasbenb and Dester Alken
 
-
-Please, Follow my son's YouTube channel - https://www.youtube.com/channel/UCIGDblP2lOIHstz90SMe-qw
